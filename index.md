@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Digital keyboard Unity for Android project](https://github.com/andreabodo/DigitalKeyboard) and ![Image](![image](https://user-images.githubusercontent.com/54473280/148707532-3b69297f-0f93-40bf-9db6-dd9ac1c91e8b.png))
+[Digital keyboard Unity for Android project](https://github.com/andreabodo/DigitalKeyboard) and ![Image](https://user-images.githubusercontent.com/54473280/148707532-3b69297f-0f93-40bf-9db6-dd9ac1c91e8b.png)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
