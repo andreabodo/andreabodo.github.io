@@ -1,7 +1,10 @@
 ## My Projects:
 
-1. [![Image](https://user-images.githubusercontent.com/54473280/148708377-9ff68ccd-7c66-4dcf-9beb-2ffda7499912.png)](https://github.com/andreabodo/DigitalKeyboard)
-Digital keyboard for Android using Unity
+1. [Degree thesis: Operazioni tra foreste in C#](https://github.com/andreabodo/Operations-Between-Forests)
+
+2. [Interdisciplinary project: e-learning platform (client-server desktop - Java)](https://gitlab.com/andreabodo/ProgettoSeatIn) in collaboration with [Dott. Ivan Lamperti](https://www.linkedin.com/in/ivan-lamperti-0118a3106/), [Dott. Alessandro Emanuele Piotti](https://www.linkedin.com/in/aepiotti/) e [Dott. Stefano Selva](https://www.linkedin.com/in/stefano-selva-6ab880171/)
+3. [Android application for reservation of sports fields](https://gitlab.com/andreabodo/iSport) in collaboration with [Dott. Stefano Selva](https://www.linkedin.com/in/stefano-selva-6ab880171/)
+4. [Digital keyboard for Android - Unity](https://github.com/andreabodo/DigitalKeyboard)
 
 
-2. [Tesi di laurea: Operazioni tra foreste](https://github.com/andreabodo/Operations-Between-Forests)
+
